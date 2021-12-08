@@ -1,5 +1,8 @@
 # Go Playground
 
+![gopher](https://user-images.githubusercontent.com/40863240/145233206-2cbbb2c1-24db-4ae7-8943-26f46a96b54f.jpg)
+> 아아, 그건 제 잔상입니다만 
+
 ## command
 - `go mod init`
   - go mod 파일 생성 
