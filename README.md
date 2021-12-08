@@ -1,6 +1,6 @@
 # Go Playground
 
-![gopher](https://user-images.githubusercontent.com/40863240/145233206-2cbbb2c1-24db-4ae7-8943-26f46a96b54f.jpg)
+<img src="https://user-images.githubusercontent.com/40863240/145233206-2cbbb2c1-24db-4ae7-8943-26f46a96b54f.jpg" alt="gopher" width="500"/>
 > 아아, 그건 제 잔상입니다만 
 
 ## command
